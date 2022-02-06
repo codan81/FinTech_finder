@@ -1,5 +1,7 @@
 # FinTech_finder
 
+![FinTech_finder](https://github.com/codan81/FinTech_finder/blob/main/Images/eth_wallet.jpg)
+
 Fintech Finder is an application that its customers can use to find fintech professionals from a list of candidates, with the possibilities to hire them, and pay them. The application will be integrating the Ethereum blockchain network in order to enable your customers Fetch and display the account balance associated with your Ethereum account address, calculate the total value of an Ethereum transaction, including the gas fees and instantly pay with cryptocurrency.
 
 
