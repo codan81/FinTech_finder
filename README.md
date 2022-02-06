@@ -4,7 +4,8 @@
 
 
 
- This is a Blockchain-based ledger system, with a user-friendly web interface. This ledger should allow partners to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger..
+Fintech Finder is an application that its customers can use to find fintech professionals from a list of candidates, with the possibilities to hire them, and pay them. The application will be integrating the Ethereum blockchain network in order to enable your customers Fetch and display the account balance associated with your Ethereum account address, calculate the total value of an Ethereum transaction, including the gas fees and instantly pay with cryptocurrency.
+
 
 ---
 ## Technologies
@@ -23,15 +24,7 @@ This project uses python 3.7 with the following packages:
 Before running the application first install the following dependencies:
 
 
-```
-
-python 3.7
-$ pip install pandas
-$ pip install streamlit
-
-```
-
-![pychain](https://github.com/codan81/pychain.py/blob/main/images%20/dependencies.jpg)
+![FinTech_finder](images/dependencies.jpg)
 
 
 ---
