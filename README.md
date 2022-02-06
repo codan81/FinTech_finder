@@ -1,9 +1,5 @@
 # FinTech_finder
 
-![FinTech_finder](images/eth_wallet.jpeg)
-
-
-
 Fintech Finder is an application that its customers can use to find fintech professionals from a list of candidates, with the possibilities to hire them, and pay them. The application will be integrating the Ethereum blockchain network in order to enable your customers Fetch and display the account balance associated with your Ethereum account address, calculate the total value of an Ethereum transaction, including the gas fees and instantly pay with cryptocurrency.
 
 
@@ -24,7 +20,7 @@ This project uses python 3.7 with the following packages:
 Before running the application first install the following dependencies:
 
 
-![FinTech_finder](images/dependencies.jpg)
+![FinTech_finder](https://github.com/codan81/FinTech_finder/blob/main/Images/dependencies.jpg)
 
 
 ---
@@ -32,16 +28,19 @@ Before running the application first install the following dependencies:
 
 This is a basic Blockchain setup with one node for vallidation, with a user friendly app to interact with the network via Stremlit. user will be sender_id, receiver_id and amount also they will be able to adjust the block dificulty with in the proof of work protocol  as a validation of the block hash.
 
-![pychain](https://github.com/codan81/pychain.py/blob/main/images%20/pychain.jpg)
+How it works video.
+
+[FinTech_finder](https://youtu.be/Ug0kh9WAGxg)
+
+Sender Account and Balance
+
+![FinTech_finder](https://github.com/codan81/FinTech_finder/blob/main/Images/senders_address.jpg)
 
 
-data frame with all the blocks added to the chain. 
+TX_hash . 
 
-![pychain](https://github.com/codan81/pychain.py/blob/main/images%20/pychain2.jpg)
+![FinTech_finder](https://github.com/codan81/FinTech_finder/blob/main/Images/tx_hash.jpg)
 
-Video of the app.
-
-[pychain](https://www.youtube.com/watch?v=_htf91Q39qw)
 
 ---
 ## Contributors
