@@ -10,6 +10,8 @@ Fintech Finder is an application that its customers can use to find fintech prof
 
 This project uses python 3.7 with the following packages:
 
+* [Web3](https://web3.foundation/) 
+
 * [python](https://www.python.org/) 
 
 * [pandas](https://github.com/pandas-dev/pandas) 
